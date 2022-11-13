@@ -22,7 +22,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "AingShMax\\GeoIpServicePackage\\GeoServiceProvider"
+        "AingShIp\\GeoIpServicePackage\\GeoServiceProvider"
       ]
     }
   }

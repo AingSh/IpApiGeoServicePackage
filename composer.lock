@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "497d0cb59cf62c29261824caf2fca88b",
+    "content-hash": "cfcc392e32f26928dde21d25f8fadaa6",
     "packages": [
         {
             "name": "aingshint/geo-service-interface",
