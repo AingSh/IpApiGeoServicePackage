@@ -1,0 +1,28 @@
+{
+    "name": "ipapitest/ip-api-geo-service-package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AingSh\\Alexander\\PackageHillelGeoTest\\": "./src"
+        }
+    },
+    "authors": [
+        {
+            "name": "alexander",
+            "email": "alex.shklyarenko22@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+
+    "require": {
+        "geoip2/geoip2": "~2.0",
+        "guzzlehttp/guzzle": "^7.5",
+        "aingshint/geo-service-interface": "master"
+    },
+    "laravel": {
+        "providers": [
+            "AingSh\\Alexander\\PackageHillelGeoTest\\GeoServiceProvider"
+        ]
+    }
+}
