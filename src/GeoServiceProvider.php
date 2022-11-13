@@ -1,10 +1,10 @@
 <?php
 
-namespace AingSh\Alexander\PackageHillelGeoTest;
+namespace AingShIp\GeoIpServicePackage;
 
 
+use Alexander\GeoServiceInterface\GeoServiceInterface;
 use Illuminate\Support\ServiceProvider;
-use Alexander\GeoServiceInterfaceTest\GeoServiceInterface;
 
 
 class GeoServiceProvider extends ServiceProvider

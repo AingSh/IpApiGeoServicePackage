@@ -1,8 +1,8 @@
 <?php
 
-namespace AingSh\Alexander\PackageHillelGeoTest;
+namespace AingShIp\GeoIpServicePackage;
 
-use Alexander\GeoServiceInterfaceTest\GeoServiceInterface;
+use Alexander\GeoServiceInterface\GeoServiceInterface;
 use GeoIp2\Database\Reader;
 use http\Client\Request;
 use Illuminate\Support\Facades\Http;

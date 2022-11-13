@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "AingSh\\Alexander\\PackageHillelGeoTest\\": "./src"
+            "AingShIp\\GeoIpServicePackage\\": "./src"
         }
     },
     "authors": [
@@ -22,7 +22,7 @@
     },
     "laravel": {
         "providers": [
-            "AingSh\\Alexander\\PackageHillelGeoTest\\GeoServiceProvider"
+            "AingShMax\\GeoIpServicePackage\\GeoServiceProvider"
         ]
     }
 }

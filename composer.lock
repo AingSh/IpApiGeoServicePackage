@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/AingSh/GeoServiceInterface-test.git",
-                "reference": "0fa159655a645074aa7967dc29df60fa4eb85de6"
+                "reference": "7ea457aaba886fcb9afb13ed7a9db9bdd6eeff75"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/AingSh/GeoServiceInterface-test/zipball/0fa159655a645074aa7967dc29df60fa4eb85de6",
-                "reference": "0fa159655a645074aa7967dc29df60fa4eb85de6",
+                "url": "https://api.github.com/repos/AingSh/GeoServiceInterface-test/zipball/7ea457aaba886fcb9afb13ed7a9db9bdd6eeff75",
+                "reference": "7ea457aaba886fcb9afb13ed7a9db9bdd6eeff75",
                 "shasum": ""
             },
             "default-branch": true,
@@ -41,7 +41,7 @@
                 "issues": "https://github.com/AingSh/GeoServiceInterface-test/issues",
                 "source": "https://github.com/AingSh/GeoServiceInterface-test/tree/master"
             },
-            "time": "2022-11-13T09:45:47+00:00"
+            "time": "2022-11-13T11:46:50+00:00"
         },
         {
             "name": "composer/ca-bundle",
