@@ -1,7 +1,9 @@
 <?php
 
 namespace AingShIp\GeoIpServicePackage;
-
+/**
+ * v1.0.4
+ */
 
 use Alexander\GeoServiceInterface\GeoServiceInterface;
 use Illuminate\Support\ServiceProvider;
